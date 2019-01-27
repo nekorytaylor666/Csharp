@@ -1,0 +1,16 @@
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\bin\Debug\TwoMigrationsHW.exe.config
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\bin\Debug\TwoMigrationsHW.exe
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\bin\Debug\TwoMigrationsHW.pdb
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\bin\Debug\EntityFramework.dll
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\bin\Debug\EntityFramework.xml
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\obj\Debug\TwoMigrationsHW.csprojAssemblyReference.cache
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\obj\Debug\TwoMigrationsHW.csproj.CoreCompileInputs.cache
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\obj\Debug\TwoMigrationsHW.csproj.CopyComplete
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\obj\Debug\TwoMigrationsHW.exe
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\obj\Debug\TwoMigrationsHW.pdb
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\obj\Debug\TwoMigrationsHW.Migrations.init.resources
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\obj\Debug\TwoMigrationsHW.csproj.GenerateResource.cache
+C:\Users\reall\source\repos\TwoMigrationsHW\TwoMigrationsHW\obj\Debug\TwoMigrationsHW.Migrations.addedType.resources
