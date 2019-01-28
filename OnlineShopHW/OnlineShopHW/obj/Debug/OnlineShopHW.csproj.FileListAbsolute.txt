@@ -1,0 +1,15 @@
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\obj\Debug\OnlineShopHW.csprojAssemblyReference.cache
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\obj\Debug\OnlineShopHW.csproj.CoreCompileInputs.cache
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\bin\Debug\OnlineShopHW.exe.config
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\bin\Debug\OnlineShopHW.exe
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\bin\Debug\OnlineShopHW.pdb
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\bin\Debug\EntityFramework.dll
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\bin\Debug\EntityFramework.xml
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\obj\Debug\OnlineShopHW.csproj.CopyComplete
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\obj\Debug\OnlineShopHW.exe
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\obj\Debug\OnlineShopHW.pdb
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\obj\Debug\OnlineShopHW.Migrations.init.resources
+C:\Users\reall\source\repos\OnlineShopHW\OnlineShopHW\obj\Debug\OnlineShopHW.csproj.GenerateResource.cache
